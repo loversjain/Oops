@@ -1,7 +1,7 @@
 
        <?php include_once 'includes/header.php'; ?>
 
-    <!-- Navigation -->
+    <!-- Navigationc -->
     
        <?php include_once 'includes/navigation.php'; ?>
        
