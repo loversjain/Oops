@@ -1,11 +1,11 @@
 
        <?php include_once 'includes/header.php'; ?>
 
-    <!-- Navigationc -->
+    <!-- Navigation -->
     
        <?php include_once 'includes/navigation.php'; ?>
        
-    <!-- Page Content -->
+    <!-- Page Contentt -->
     <div class="container">
 
         <div class="row">
@@ -20,7 +20,7 @@
                 </h1>
                 
 
-                <!-- First Blog Post -->
+                <!-- First Blog Postt -->
                 <h2>
                     <a href="#">Blog Post Title</a>
                 </h2>
@@ -52,7 +52,7 @@
 
                 <hr>
 
-                <!-- Third Blog Post -->
+                <!-- Third Blog Postt -->
                 <h2>
                     <a href="#">Blog Post Title</a>
                 </h2>
